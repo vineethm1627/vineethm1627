@@ -1,4 +1,4 @@
-Hello, my name is Vineeth. 
+Hello, my name is Vineeth. :smiley:
 
 ML & DL Enthusiast | SIH'2020 Grand Finalist | Mentor, Speaker | Chapter Lead,Script Foundation| Fellow @ IncubateIND | Mentor @ Garuda Hacks | Deep Learning Mentor @ Leadingindia.ai | Machine Learning Mentor @ GirlScript Technologies Pvt. Ltd. | AWS Machine Learning Scholar | Machine Learning Intern @ Internity Foundation
 
