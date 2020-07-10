@@ -1,4 +1,4 @@
-Hello, my name is Vineeth. :smiley:
+Hello, my name is Vineeth. :smiley: <br>
 I am currently pursuing BTech in Computer Science and Engineering at Bennett University, Greater Noida
 ---
 <hr>
