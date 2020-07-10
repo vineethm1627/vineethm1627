@@ -15,7 +15,6 @@ ML & DL Enthusiast | SIH'2020 Grand Finalist | Mentor, Speaker | Chapter Lead,Sc
 
 <hr>
 <h2>Connect With Me :handshake: </h2>
-[![Twitter Badge](https://img.shields.io/badge/-@vineethm1627-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vineethm1627)](https://twitter.com/vineethm1627) [![Linkedin Badge](https://img.shields.io/badge/-vineethm1627-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vineeth-m-318695170/)](https://www.linkedin.com/in/vineeth-m-318695170/) [![Medium Badge](https://img.shields.io/badge/-@vineethm1627-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vinscoder1627/)](https://medium.com/@vinscoder1627/)
-[![Gmail Badge](https://img.shields.io/badge/-vinscoder1627@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinscoder1627@gmail.com)](mailto:vinscoder1627@gmail.com)
-
+<a href = "https://www.linkedin.com/in/vineeth-m-318695170/"> Linkedin </a>
+<a href = "https://medium.com/@vinscoder1627/"> Medium </a>
 <hr>
