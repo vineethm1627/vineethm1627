@@ -3,8 +3,9 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
 </h1>
 <hr>
 <b><i>
-ML & DL Enthusiast | SIH'2020 Grand Finalist | Mentor, Speaker | Chapter Lead @ Script Foundation| Fellow @ IncubateIND | Mentor @ Garuda Hacks | Deep Learning Mentor @ Leadingindia.ai | Machine Learning Mentor @ GirlScript Technologies Pvt. Ltd. | AWS Machine Learning Scholar @ Udacity | Machine Learning Intern @ Internity Foundation[Best Machine Learning Intern Award] | President @ Computer Society of India, Student Chapter | Ascend Select Member @ Harvard Business Review | Community Manager @ Edudictive | Technical Content Writer @ Analytics Vidhya | ex-Intern @ TechnipFMC| ex Mentor and Judge at Def Hacks() 2020 | ex Organizer and Mentor @ Hack in India Hackathon | Mentor @ Hack Against Covid, codezoned and lot more ....
-Winner @ Create-A-Thon
+ML & DL Enthusiast | SIH'2020 Grand Finalist | Mentor, Speaker | Chapter Lead @ Script Foundation| Fellow @ IncubateIND | Mentor @ Garuda Hacks | Deep Learning Mentor @ Leadingindia.ai | Machine Learning Mentor @ GirlScript Technologies Pvt. Ltd. | AWS Machine Learning Scholar @ Udacity | Machine Learning Intern @ Internity Foundation[Best Machine Learning Intern Award] | President @ Computer Society of India, Student Chapter | Ascend Select Member @ Harvard Business Review | Community Manager @ Edudictive | Technical Content Writer @ Analytics Vidhya | ex-Intern @ TechnipFMC| ex Mentor and Judge at Def Hacks() 2020 | ex Organizer and Mentor @ Hack in India Hackathon | Mentor @ Hack Against Covid, codezoned and lot more .... <br>
+Currently doing Machine Learning Internship @ Technocolabs <br>
+Winner @ Create-A-Thon 2020 [ Problem statement given by Sapio Analytics ]
 </i></b>
 
 <hr>
