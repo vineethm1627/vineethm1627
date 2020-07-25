@@ -1,4 +1,4 @@
-<h1>Hello, my name is Vineeth. :smiley: <br>
+<h1>Hello, my name is Vineeth. :computer: :smiley: :computer: <br>
 I am currently pursuing BTech in Computer Science and Engineering at Bennett University, Greater Noida
 </h1>
 <hr>
