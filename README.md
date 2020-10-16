@@ -30,4 +30,4 @@ Winner @ Create-A-Thon 2020 [ Problem statement given by Sapio Analytics ]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vineethm1627&show_icons=true&count_private=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethm1627&layout=compact&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethm1627&layout=compact&count_private=true&theme=radical&langs_count=10)
