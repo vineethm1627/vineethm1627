@@ -20,9 +20,14 @@ Winner @ Create-A-Thon 2020 [ Problem statement given by Sapio Analytics ]
 -:100:Constant, consistent learner for life. 
 
 <h2>Connect With Me :handshake: </h2>
+<p>
 <a href = "https://www.linkedin.com/in/vineeth-m-318695170/"> Linkedin </a> <span> | </span>
 <a href = "https://medium.com/@vinscoder1627/"> Medium </a> <span> | </span>
 <a href = "https://twitter.com/vineethm1627/"> Twitter </a> <span> | <span>
 <a href = "https://hackerrank.com/mv3451"> HackerRank </a>  
-
+</p>
 <hr>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vineethm1627&show_icons=true&count_private=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethm1627&layout=compact&count_private=true&theme=radical)
