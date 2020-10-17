@@ -3,7 +3,7 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
 </h1>
 <hr>
 
-<img src = "https://raw.githubusercontent.com/vineethm1627/portfolio/master/animated_intro.gif?token=AKP7RD33VYYTB73IDOPXM6K7SQEL4" height = '50%' width = '80%'>
+<img src = "https://raw.githubusercontent.com/vineethm1627/portfolio/master/animated_intro.gif?token=AKP7RD33VYYTB73IDOPXM6K7SQEL4" height = '50%' width = '100%'>
 <h2>About Me :book: </h2>
 
 -:repeat:"Strong intuitions come with strong applied knowledge." <br>
