@@ -2,7 +2,7 @@
 I am currently pursuing BTech in Computer Science and Engineering at Bennett University, Greater Noida
 </h1>
 <hr>
-
+<h3><i>Follow me to stay updated with awesome ML and DL Code Snippets: ✨<a href="https://gist.github.com/vineethm1627">my gists</a>✨</i></h3>
 <img src = "https://raw.githubusercontent.com/vineethm1627/portfolio/master/animated_intro.gif?token=AKP7RD33VYYTB73IDOPXM6K7SQEL4" height = '50%' width = '100%'>
 <h2>About Me :book: </h2>
 
