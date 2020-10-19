@@ -4,8 +4,8 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
 <hr>
 <h3><i>Follow me to stay updated with awesome ML and DL Code Snippets: ✨<a href="https://gist.github.com/vineethm1627">my gists</a>✨</i></h3>
 <img src = "https://raw.githubusercontent.com/vineethm1627/portfolio/master/animated_intro.gif?token=AKP7RD33VYYTB73IDOPXM6K7SQEL4" height = '50%' width = '100%'>
-<h2>About Me :book: </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineethm1627"> </p>
+<h2>About Me :book: </h2>
 
 -:repeat:"Strong intuitions come with strong applied knowledge." <br>
 -:spiral_calendar:Disciplined, Time bound, works out everything will full dedication and focus. <br>
