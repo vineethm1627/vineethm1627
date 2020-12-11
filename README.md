@@ -9,11 +9,11 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
 
 <h2>About Me :book: </h2>
 
--:repeat:"Strong intuitions come with strong applied knowledge." <br>
--:spiral_calendar:Disciplined, Time bound, works out everything will full dedication and focus. <br>
--:scroll:Deep Learning and Machine Learning Enthusiast. <br>
--:infinity:In love with Mathematics and Algorithms. <br>
--:100:Constant, consistent learner for life. 
+- :repeat:"Strong intuitions come with strong applied knowledge." <br>
+- :spiral_calendar:Disciplined, Time bound, works out everything will full dedication and focus. <br>
+- :scroll:Deep Learning and Machine Learning Enthusiast. <br>
+- :infinity:In love with Mathematics and Algorithms. <br>
+- :100:Constant, consistent learner for life. 
 
 
 <h2> Current Goals 🔭 </h2>
