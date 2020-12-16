@@ -41,6 +41,7 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
 
 [![Medium Articles](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@vinscoder1627&type=horizontal)](https://medium.com/@vinscoder1627)
 
+Check out my articles on Competitive Programming : [hashnode](https://vineethm.hashnode.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vineethm1627&show_icons=true&count_private=true&theme=radical)
 
