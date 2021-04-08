@@ -38,9 +38,9 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
   <a href = "https://www.codechef.com/users/mv3451"> CodeChef </a> 
 </p>
 <hr>
-<h4> Visit my portfolio Website: https://vineethm.tech </h4>
-<h4> Check out my articles on Competitive Programming: [hashnode](https://vineethm.hashnode.dev) </h4>
-  <h4> View my Certification Badges on Credly: [credly](https://www.credly.com/users/vineeth-m.c1432dd5) </h4>
+  <h4> Visit my portfolio Website: https://vineethm.tech </h4>
+  <h4> Check out my articles on Competitive Programming: https://vineethm.hashnode.dev </h4>
+  <h4> View my Certification Badges on Credly: https://www.credly.com/users/vineeth-m.c1432dd5 </h4>
 <hr>
   
 ---
