@@ -19,32 +19,34 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
 <h2> Current Goals 🔭 </h2>
 
 - Complete understanding of Data Structures and Algorithms
-- Becoming a 4:star: Coder at CodeChef
+- Becoming a Cloud Practitioner: 3x Certified Azure Fundamentals
 - Getting Started with MERN Stack Web Development
-- Practice DevOps
-- Implement CI / CD and Cloud administration
-
+- Interview Preparations
+- Hackathon mentoring and guiding students
+- Feel free to connect with me for web based Machine Learning / Deep Learning projects
+- Quantitative Aptitude Preparation
+- Advanced C++ Coding 
 
 <h2>Connect With Me :handshake: </h2>
 <p>
   <a href = "https://www.linkedin.com/in/vineethm1627/"> Linkedin </a> <span> | </span>
   <a href = "https://medium.com/@vinscoder1627/"> Medium </a> <span> | </span>
   <a href = "https://vineethm.hashnode.dev/"> HashNode </a> <span> | </span>
-  <a href = "https://twitter.com/vineethm1627/"> Twitter </a> <span> | <span>
+  <a href = "https://auth.geeksforgeeks.org/user/vineethm1627/practice/"> GeeksForGeeks </a> <span> | </span>
   <a href = "https://hackerrank.com/mvineeth"> HackerRank </a>  <span> | <span>
   <a href = "https://leetcode.com/vinscoder1627/"> LeetCode </a> <span> | <span>
   <a href = "https://www.codechef.com/users/mv3451"> CodeChef </a> 
 </p>
 <hr>
 <h4> Visit my portfolio Website: https://vineethm.tech </h4>
+<h4> Check out my articles on Competitive Programming: [hashnode](https://vineethm.hashnode.dev) </h4>
+  <h4> View my Certification Badges on Credly: [credly](https://www.credly.com/users/vineeth-m.c1432dd5) </h4>
 <hr>
   
 ---
 ### My blogs :books: 
 
 [![Medium Articles](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@vinscoder1627&type=horizontal)](https://medium.com/@vinscoder1627)
-
-Check out my articles on Competitive Programming : [hashnode](https://vineethm.hashnode.dev)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vineethm1627&show_icons=true&count_private=true&theme=radical)
 
