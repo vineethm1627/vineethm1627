@@ -19,6 +19,8 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
 <h2> Current Goals 🔭 </h2>
 
 - Complete understanding of Data Structures and Algorithms
+- Solving 500+ questions on LeetCode and GFG respectively.
+- Becoming a 4⭐ Coder at CodeChef
 - Becoming a Cloud Practitioner: 3x Certified Azure Fundamentals
 - Getting Started with MERN Stack Web Development
 - Interview Preparations
@@ -33,9 +35,11 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
   <a href = "https://medium.com/@vinscoder1627/"> Medium </a> <span> | </span>
   <a href = "https://vineethm.hashnode.dev/"> HashNode </a> <span> | </span>
   <a href = "https://auth.geeksforgeeks.org/user/vineethm1627/practice/"> GeeksForGeeks </a> <span> | </span>
-  <a href = "https://hackerrank.com/mvineeth"> HackerRank </a>  <span> | <span>
+  <a href = "https://www.codechef.com/users/mv3451"> CodeChef </a> <span> | <span>
   <a href = "https://leetcode.com/vinscoder1627/"> LeetCode </a> <span> | <span>
-  <a href = "https://www.codechef.com/users/mv3451"> CodeChef </a> 
+  <a href = "https://www.interviewbit.com/profile/vineethm1627/solved-problems"> InterviewBit </a> <span> | </span>
+  <a href = "https://hackerrank.com/mvineeth"> HackerRank </a>  
+  
 </p>
 <hr>
   <h4> Visit my portfolio Website: https://vineethm.tech </h4>
