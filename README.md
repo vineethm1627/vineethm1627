@@ -20,6 +20,7 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
 
 - Complete understanding of Data Structures and Algorithms
 - Solving 500+ questions on LeetCode and GFG respectively.
+- Striver's 30 days Coding Challenge
 - Becoming a 4⭐ Coder at CodeChef
 - Becoming a Cloud Practitioner: 3x Certified Azure Fundamentals
 - Getting Started with MERN Stack Web Development
@@ -42,6 +43,7 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
   
 </p>
 <hr>
+  <h4> My C++ Solutions for Striver's SDE Sheet (30 days challenge): https://github.com/vineethm1627/SDE_Sheet_Striver </h4>
   <h4> Visit my portfolio Website: https://vineethm.tech </h4>
   <h4> Check out my articles on Competitive Programming: https://vineethm.hashnode.dev </h4>
   <h4> View my Certification Badges on Credly: https://www.credly.com/users/vineeth-m.c1432dd5 </h4>
