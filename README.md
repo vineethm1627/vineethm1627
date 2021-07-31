@@ -3,7 +3,7 @@
 I am currently pursuing BTech in Computer Science and Engineering at Bennett University, Greater Noida
 </h1>
 <hr>
-<h3><i>Follow me to stay updated with awesome ML and DL Code Snippets: ✨<a href="https://gist.github.com/vineethm1627">my gists</a>✨</i></h3>
+<h3><i>Follow me to stay updated with C++ Coding Solutions</h3>
 <img align="right" alt="GIF" src = "https://github.com/vineethm1627/portfolio/blob/master/animated_intro.gif" height="270" width = '400' />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineethm1627"> </p>
 
