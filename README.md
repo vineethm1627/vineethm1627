@@ -1,7 +1,10 @@
 <h1>Hello, my name is Vineeth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br>
-:computer: :smiley: :computer: <br>
-I am currently pursuing BTech in Computer Science and Engineering at Bennett University, Greater Noida
+:computer: :smiley: :computer: 
 </h1>
+<h3>
+I am currently pursuing BTech in Computer Science and Engineering at Bennett University, Greater Noida. <br>
+I am an upcoming SDE at Amazon, India and have previously interned as a Technology Analyst at ZS Associates, India, for a duration of 9.5 months.
+</h3>
 <hr>
 <h3><i>Follow me to stay updated with C++ Coding Solutions</h3>
 <img align="right" alt="GIF" src = "https://github.com/vineethm1627/portfolio/blob/master/animated_intro.gif" height="270" width = '400' />
@@ -11,24 +14,16 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
 
 - :repeat:"Strong intuitions come with strong applied knowledge." <br>
 - :spiral_calendar:Disciplined, Time bound, works out everything will full dedication and focus. <br>
-- :scroll:Deep Learning and Machine Learning Enthusiast. <br>
-- :infinity:In love with Mathematics and Algorithms. <br>
-- :100:Constant, consistent learner for life. 
-
+- :scroll: DSA and problem solving enthusiant. <br>
+- :infinity: In love with Mathematics and Algorithms. <br>
+- :100: Constant & consistent learner forever. 
 
 <h2> Current Goals 🔭 </h2>
 
-- Complete understanding of Data Structures and Algorithms
-- Solving 500+ questions on LeetCode and GFG respectively.
-- Striver's 30 days Coding Challenge
-- Becoming a 4⭐ Coder at CodeChef
-- Becoming a Cloud Practitioner: 3x Certified Azure Fundamentals
-- Getting Started with MERN Stack Web Development
-- Interview Preparations
-- Hackathon mentoring and guiding students
-- Feel free to connect with me for web based Machine Learning / Deep Learning projects
-- Quantitative Aptitude Preparation
-- Advanced C++ Coding 
+- Practice Data Structures and Algorithms problems.
+- Learn advanced algorithms.
+- Learn Web Development and build applications using the MERN stack.
+- Learn and practice various Backend and System Design concepts.
 
 <h2>Connect With Me :handshake: </h2>
 <p>
@@ -44,7 +39,7 @@ I am currently pursuing BTech in Computer Science and Engineering at Bennett Uni
 </p>
 <hr>
   <h4> My C++ Solutions for Striver's SDE Sheet (30 days challenge): https://github.com/vineethm1627/SDE_Sheet_Striver </h4>
-  <h4> Visit my portfolio Website: https://vineethm.tech </h4>
+  <h4> Visit my portfolio Website: https://vineethm.netlify.app </h4>
   <h4> Check out my articles on Competitive Programming: https://vineethm.hashnode.dev </h4>
   <h4> View my Certification Badges on Credly: https://www.credly.com/users/vineeth-m.c1432dd5 </h4>
 <hr>
