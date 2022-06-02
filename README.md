@@ -1,8 +1,7 @@
-<h1>Hello, my name is Vineeth <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br>
+<h1>Hello, my name is Vineeth <br>
 :computer: :smiley: :computer: 
 </h1>
 <h3>
-I am currently pursuing BTech in Computer Science and Engineering at Bennett University, Greater Noida. <br>
 I am an upcoming SDE at Amazon, India and have previously interned as a Technology Analyst at ZS Associates, India, for a duration of 9.5 months.
 </h3>
 <hr>
